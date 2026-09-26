@@ -1,2 +1,11 @@
 *.out
 *.exe
+*.pdf
+*.Identifier
+*.asm
+*.o
+*.sh
+*.txt
+books/
+asm/
+*.cow
